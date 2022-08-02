@@ -1,0 +1,16 @@
+
+.container-fluid{
+    background-color: aqua;
+    height: 70px;
+}
+
+.container-fluid li,a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    padding: 15px;
+   margin-left: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    flex-wrap: wrap;
+}
