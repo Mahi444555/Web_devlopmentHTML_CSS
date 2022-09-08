@@ -1,6 +1,6 @@
 
 // const button=document.querySelector(".button")
-
+ 
 // button.addEventListener("click",()=>{
 //   //take input from using  box
 //   const text=document.getElementsByClassName("text")[0].value;
